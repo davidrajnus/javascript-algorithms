@@ -11,6 +11,6 @@ function isPalindrome(string) {
 
 isPalindrome("Madam I'm Adam");
 
-//function has a Linear Time Complexity O(n) + O(m)
-//isPalindrom is a function that checks if a string is the same when it is reversed
+// function has a Linear Time Complexity O(n) + O(m)
+// isPalindrome is a function that checks if a string is the same when it is reversed
 // example: "Madam I'm Adam" is the same forward and reverse
